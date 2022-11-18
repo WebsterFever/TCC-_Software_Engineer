@@ -1,0 +1,222 @@
+[14-Aug-2022 12:02:29 UTC] PHP Warning:  unlink(../../materials/62f5abd570003-1660267477..rar): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 12:29:53 UTC] PHP Warning:  unlink(../../countries/62f8ea7c9193f-1660480124.mp4): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_country.php on line 12
+[14-Aug-2022 12:49:20 UTC] PHP Warning:  unlink(../../lessons/62f5a8c9b829f-1660266697.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 12:49:20 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 12:51:21 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:15:15 UTC] PHP Warning:  unlink(../../lessons/62f5a8d4284fa-1660266708.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:15:15 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:15:40 UTC] PHP Warning:  unlink(../../lessons/62f5a8ddd50e7-1660266717.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:15:40 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:15:49 UTC] PHP Warning:  unlink(../../lessons/62f5a8eb9f63c-1660266731.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:15:49 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:15:58 UTC] PHP Warning:  unlink(../../lessons/62f5a8f5b78c2-1660266741.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:15:58 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:16:09 UTC] PHP Warning:  unlink(../../lessons/62f5a901a588e-1660266753.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:16:09 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:16:22 UTC] PHP Warning:  unlink(../../lessons/62f5a90dcfd41-1660266765.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:16:22 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:16:30 UTC] PHP Warning:  unlink(../../lessons/62f5a91a32d15-1660266778.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:16:30 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:16:38 UTC] PHP Warning:  unlink(../../lessons/62f5a928aa7f7-1660266792.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:16:38 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:16:46 UTC] PHP Warning:  unlink(../../lessons/62f5a936db9ab-1660266806.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:16:46 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:16:53 UTC] PHP Warning:  unlink(../../lessons/62f5a946eb2ce-1660266822.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:16:53 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:17:05 UTC] PHP Warning:  unlink(../../lessons/62f5a9576dc99-1660266839.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:17:05 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:17:13 UTC] PHP Warning:  unlink(../../lessons/62f5a96227633-1660266850.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:17:13 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:17:22 UTC] PHP Warning:  unlink(../../lessons/62f5a96d898d9-1660266861.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:17:22 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:17:34 UTC] PHP Warning:  unlink(../../lessons/62f5a97945962-1660266873.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:17:34 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:17:44 UTC] PHP Warning:  unlink(../../lessons/62f5a9a6c58f5-1660266918.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:17:44 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:19:53 UTC] PHP Warning:  unlink(../../lessons/62f5aa99cf88e-1660267161.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:19:53 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:20:02 UTC] PHP Warning:  unlink(../../lessons/62f5aab094422-1660267184.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:20:02 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:20:21 UTC] PHP Warning:  unlink(../../lessons/62f5aabee07fe-1660267198.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:20:21 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:21:42 UTC] PHP Warning:  unlink(../../lessons/62f5aacd90e79-1660267213.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:21:42 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:21:49 UTC] PHP Warning:  unlink(../../lessons/62f5aaf7a2402-1660267255.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:21:49 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:21:58 UTC] PHP Warning:  unlink(../../lessons/62f5ab031def6-1660267267.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:21:58 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:22:11 UTC] PHP Warning:  unlink(../../lessons/62f5ab0f6e24b-1660267279.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:22:11 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:22:31 UTC] PHP Warning:  unlink(../../lessons/62f5ab1baa0b0-1660267291.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:22:31 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:22:40 UTC] PHP Warning:  unlink(../../lessons/62f5ab276c38e-1660267303.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:22:40 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:22:47 UTC] PHP Warning:  unlink(../../lessons/62f5ab321e38e-1660267314.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:22:47 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:22:59 UTC] PHP Warning:  unlink(../../lessons/62f5ab3eba1f4-1660267326.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:22:59 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:23:07 UTC] PHP Warning:  unlink(../../lessons/62f5ab58aaa4b-1660267352.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:23:07 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:23:21 UTC] PHP Warning:  unlink(../../lessons/62f5ab804b7ec-1660267392.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:23:21 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:23:30 UTC] PHP Warning:  unlink(../../lessons/62f5ab8e8fc4e-1660267406.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:23:30 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:23:55 UTC] PHP Warning:  unlink(../../lessons/62f5abd570003-1660267477.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:23:55 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:26:50 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:26:50 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:27:04 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:27:04 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:27:12 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:27:12 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:27:30 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:27:30 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:27:40 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:27:40 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:27:58 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:27:58 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:28:14 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:28:14 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:28:41 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:28:41 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:28:48 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:28:48 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:28:57 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:28:57 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:29:14 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:29:14 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:29:29 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:29:29 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:29:45 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:29:45 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:29:57 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:29:57 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:30:10 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:30:10 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:30:19 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:30:19 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:30:29 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:30:29 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:30:42 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:30:42 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:30:54 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:30:54 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:31:05 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:31:05 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:31:16 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:31:16 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:31:26 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:31:26 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:31:37 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:31:37 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:31:49 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:31:49 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:32:26 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:32:26 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:32:37 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:32:37 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:32:46 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:32:46 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:32:55 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:32:55 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:33:03 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:33:03 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:33:18 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:33:18 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:33:30 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:33:30 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:33:41 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:33:41 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:33:53 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:33:53 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:34:12 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:34:12 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:34:20 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:34:20 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:34:30 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:34:30 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:34:44 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:34:44 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:35:01 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:35:01 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:35:20 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:35:20 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:35:42 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:35:42 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:38:52 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:38:52 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:39:02 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:39:02 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:39:13 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:39:13 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:39:21 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:39:21 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:39:30 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:39:30 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:39:37 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:39:37 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:39:47 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:39:47 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:39:56 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:39:56 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:40:05 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:40:05 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:40:14 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:40:14 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:40:22 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:40:22 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:40:35 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:40:35 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:40:43 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:40:43 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:40:52 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:40:52 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:41:02 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:41:02 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 13:41:17 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[14-Aug-2022 13:41:17 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[14-Aug-2022 16:19:50 UTC] PHP Notice:  Undefined index: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/requisitions/edit_country_visit.php on line 11
+[14-Aug-2022 16:21:07 UTC] PHP Notice:  Undefined index: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/requisitions/edit_country_visit.php on line 11
+[14-Aug-2022 18:21:08 UTC] PHP Notice:  Undefined index: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/requisitions/edit_country_visit.php on line 11
+[14-Aug-2022 18:35:49 UTC] PHP Notice:  Undefined index: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/requisitions/edit_country_visit.php on line 11
+[14-Aug-2022 18:36:08 UTC] PHP Notice:  Undefined index: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/requisitions/edit_country_visit.php on line 11
+[15-Aug-2022 11:41:02 UTC] PHP Notice:  Undefined index: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/requisitions/edit_country_visit.php on line 11
+[19-Aug-2022 10:19:48 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[19-Aug-2022 10:26:38 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[19-Aug-2022 10:37:05 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[19-Aug-2022 10:38:03 UTC] PHP Warning:  unlink(../../lessons/62f8ee3657245-1660481078.mp4): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[19-Aug-2022 10:38:03 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[19-Aug-2022 10:38:37 UTC] PHP Warning:  unlink(../../lessons/62f8ee3657245-1660481078.mp4): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[19-Aug-2022 10:38:37 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[22-Aug-2022 22:52:52 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[22-Aug-2022 22:52:52 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[23-Aug-2022 17:06:45 UTC] PHP Notice:  Undefined index: email in /home/mhbyhi5zr89f/public_html/admin/requisitions/auth.php on line 9
+[23-Aug-2022 17:06:45 UTC] PHP Notice:  Undefined index: senha in /home/mhbyhi5zr89f/public_html/admin/requisitions/auth.php on line 10
+[27-Aug-2022 22:17:21 UTC] PHP Notice:  Undefined index: email in /home/mhbyhi5zr89f/public_html/admin/requisitions/auth.php on line 9
+[27-Aug-2022 22:17:21 UTC] PHP Notice:  Undefined index: senha in /home/mhbyhi5zr89f/public_html/admin/requisitions/auth.php on line 10
+[28-Aug-2022 14:27:21 UTC] PHP Notice:  Undefined index: email in /home/mhbyhi5zr89f/public_html/admin/requisitions/auth.php on line 9
+[28-Aug-2022 14:27:21 UTC] PHP Notice:  Undefined index: senha in /home/mhbyhi5zr89f/public_html/admin/requisitions/auth.php on line 10
+[02-Oct-2022 16:04:24 UTC] PHP Notice:  Undefined index: duvidas in /home/mhbyhi5zr89f/public_html/admin/requisitions/edit_lesson.php on line 10
+[02-Oct-2022 16:05:29 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/mhbyhi5zr89f/public_html/admin/requisitions/edit_lesson.php on line 12
+[02-Oct-2022 16:05:54 UTC] PHP Notice:  Undefined index: duvidas in /home/mhbyhi5zr89f/public_html/admin/requisitions/edit_lesson.php on line 10
+[02-Oct-2022 16:06:48 UTC] PHP Notice:  Undefined index: duvidas in /home/mhbyhi5zr89f/public_html/admin/requisitions/edit_lesson.php on line 10
+[02-Oct-2022 16:07:34 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mhbyhi5zr89f/public_html/admin/requisitions/edit_lesson.php on line 10
+[02-Oct-2022 16:15:28 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[02-Oct-2022 16:15:28 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[02-Oct-2022 16:52:03 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[02-Oct-2022 16:52:03 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[07-Oct-2022 23:38:16 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[07-Oct-2022 23:41:44 UTC] PHP Warning:  unlink(../../courses/videos/62f5b1610a2bc-1660268897.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_course.php on line 17
+[07-Oct-2022 23:41:56 UTC] PHP Warning:  unlink(../../courses/videos/62f5b11f819ed-1660268831.): No such file or directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_course.php on line 17
+[18-Oct-2022 11:50:11 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[18-Oct-2022 11:50:11 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[23-Oct-2022 14:28:33 UTC] PHP Warning:  unlink(../../lessons/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 12
+[23-Oct-2022 14:28:33 UTC] PHP Warning:  unlink(../../materials/): Is a directory in /home/mhbyhi5zr89f/public_html/admin/requisitions/remove_lesson.php on line 13
+[30-Oct-2022 11:41:29 UTC] PHP Notice:  Undefined index: aula in /home/mhbyhi5zr89f/public_html/admin/requisitions/add_lesson.php on line 6
+[30-Oct-2022 11:41:29 UTC] PHP Notice:  Undefined index: sobre in /home/mhbyhi5zr89f/public_html/admin/requisitions/add_lesson.php on line 7
+[30-Oct-2022 11:41:29 UTC] PHP Notice:  Undefined index: curso in /home/mhbyhi5zr89f/public_html/admin/requisitions/add_lesson.php on line 8
+[30-Oct-2022 11:41:29 UTC] PHP Notice:  Undefined index: video in /home/mhbyhi5zr89f/public_html/admin/requisitions/add_lesson.php on line 9
+[30-Oct-2022 11:41:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mhbyhi5zr89f/public_html/admin/requisitions/add_lesson.php on line 9
+[30-Oct-2022 11:41:29 UTC] PHP Notice:  Undefined index: texto_materiais in /home/mhbyhi5zr89f/public_html/admin/requisitions/add_lesson.php on line 10
+[30-Oct-2022 11:41:29 UTC] PHP Notice:  Undefined index: materiais in /home/mhbyhi5zr89f/public_html/admin/requisitions/add_lesson.php on line 11
+[30-Oct-2022 11:41:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mhbyhi5zr89f/public_html/admin/requisitions/add_lesson.php on line 11

@@ -1,0 +1,450 @@
+#menu_en,
+#menu_pt,
+#menu_fr{
+    display: none;
+}
+
+/* Geral */
+@media screen and (min-width:992px) {
+    .navbar .nav-link{
+        padding: 10px 15px;
+        border-radius: 10px;
+        background-color: transparent;
+        color: #fff;
+        border: solid 1px #fff;
+        cursor:pointer;
+        transition: 0.4s;
+        margin: 0px 5px;
+    }
+    
+    .navbar .nav-link:hover{
+        border-color: #ff0044;
+    }
+}
+
+/* .navbar .nav-link,
+.loginMenu{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: transparent;
+    color: #fff;
+    border: solid 1px #fff;
+    cursor:pointer;
+    transition: 0.4s;
+} */
+
+/* .navbar .nav-link:hover,
+.loginMenu:hover{
+    border-color: #ff0044;
+} */
+
+.idiomas{
+    background-color: #000;
+    border: 0px;
+    border-radius: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.idiomas p{
+    color: #fff;
+    margin-top: 15px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.idiomas img{
+    height: 90px;
+}
+
+.odiomas option{
+    background-color: red;
+}
+
+.idiomas select{
+    background-color: #fff;
+    margin: 10px;
+    margin-top: 20px;
+    height: 40px;
+}
+
+.cursos h2{
+    margin-top: 20px;
+}
+
+.cursos .card{
+    margin-top: 22px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.cursos .card img{
+    border-radius: 5px 5px 0px 0px;
+    height: 280px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.cursos .button{
+    display: block;
+    width: 70%;
+    margin: 10px auto;
+}
+  
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 280px;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #198754;
+  }
+  
+.card:hover .overlay {
+    opacity: 0.9;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.sobre h2{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.sobre img{
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    width: 100%;
+}
+
+.sobre p{
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 26px;
+    text-indent: 20px;
+}
+
+.mapa{
+    text-align: center;
+}
+
+.paises h2{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.contato h2{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.contato p{
+    margin-bottom: 30px;
+}
+
+.contato img{
+    width: 100%;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+
+.contato input{
+    margin-bottom: 10px;
+}
+
+.curso_detalhes h2{
+    margin-top: 20px;
+}
+
+.curso_detalhes p{
+    margin-top: 20px;
+}
+
+.video_curso{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.login h2{
+    margin-top: 20px;
+}
+
+.login p{
+    margin-top: 20px;
+}
+
+.login img{
+    width: 100%;
+}
+
+.login h3{
+    margin-bottom: 20px;
+}
+
+.login form{
+    margin-bottom: 30px;
+}
+
+.login input{
+    margin-top: 10px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 15px;
+    border-top: 1px solid #ced4da;
+    margin-top: 50px;
+    background-color: #1c1d1f;
+    color: #fff;
+}
+
+footer p{
+    font-size: 12px;
+    margin-top: 22px;
+}
+
+footer ul{
+    margin-top: 14px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+footer li{
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+/* Mapa */
+path {fill: lightgray; stroke: white;}
+path:hover {fill: gray;}
+
+/* Media Queries */
+@media (max-width: 575px) {
+    .idiomas{
+        justify-content: center;
+    }
+
+    .carousel img{
+        height: 300px;
+        filter: brightness(50%);
+    }
+
+    .carousel-caption{
+        bottom: 20px;
+    }
+
+    .carousel-caption h5{
+        font-size: 12px;
+        text-shadow: 1px 1px 1px black;
+    }
+
+    .contato img{
+        margin-bottom: 20px;
+    }
+
+    .contato textarea{
+        margin-bottom: 10px;
+        height: 114px;
+    }
+
+    .curso_detalhes iframe{
+        width: 100%;
+        height: 300px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    .idiomas{
+        justify-content: center;
+    }
+
+    .cursos .card img{
+        height: auto;
+    }
+
+    .carousel img{
+        height: 300px;
+        filter: brightness(50%);
+    }
+
+    .carousel-caption{
+        bottom: 120px;
+    }
+
+    .carousel-caption h5{
+        font-size: 32px;
+        text-shadow: 1px 1px 1px black;
+    }
+
+    .contato img{
+        margin-bottom: 20px;
+    }
+
+    .contato textarea{
+        margin-bottom: 10px;
+        height: 114px;
+    }
+
+    .curso_detalhes iframe{
+        width: 500px;
+        height: 300px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    .idiomas{
+        justify-content: center;
+    }
+
+    .carousel img{
+        height: 300px;
+        filter: brightness(50%);
+    }
+
+    .carousel-caption{
+        bottom: 105px;
+    }
+
+    .carousel-caption h5{
+        font-size: 32px;
+        text-shadow: 1px 1px 1px black;
+    }
+
+    .contato img{
+        margin-bottom: 20px;
+    }
+
+    .contato textarea{
+        margin-bottom: 10px;
+        height: 114px;
+    }
+
+    .curso_detalhes iframe{
+        width: 750px;
+        height: 400px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    .navbar form{
+        margin-top: 15px;
+    }
+
+    .idiomas select{
+        width: 300px;
+    }
+
+    .carousel img{
+        height: 500px;
+        filter: brightness(50%);
+    }
+
+    .carousel-caption{
+        bottom: 200px;
+    }
+
+    .carousel-caption h5{
+        font-size: 50px;
+        text-shadow: 1px 1px 1px black;
+    }
+
+    .contato img{
+        margin-bottom: 20px;
+    }
+
+    .contato textarea{
+        margin-bottom: 10px;
+        height: 114px;
+    }
+
+
+    .curso_detalhes iframe{
+        width: 900px;
+        height: 500px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .navbar form{
+        margin-top: 15px;
+    }
+
+    .idiomas select{
+        width: 295px;
+    }
+
+    .carousel img{
+        height: 500px;
+        filter: brightness(50%);
+    }
+
+    .carousel-caption{
+        bottom: 200px;
+    }
+
+    .carousel-caption h5{
+        font-size: 50px;
+        text-shadow: 1px 1px 1px black;
+    }
+
+    .contato textarea{
+        margin-bottom: 10px;
+        height: 174px;
+    }
+
+    .curso_detalhes iframe{
+        width: 900px;
+        height: 500px;
+    }
+}
+
+@media (min-width: 1400px) { 
+    .navbar form{
+        margin-top: 15px;
+    }
+
+    .idiomas select{
+        width: 295px;
+    }
+
+    .carousel img{
+        height: 600px;
+        filter: brightness(50%);
+    }
+
+    .carousel-caption{
+        bottom: 250px;
+    }
+
+    .carousel-caption h5{
+        font-size: 50px;
+        text-shadow: 1px 1px 1px black;
+    }
+    
+    .contato textarea{
+        margin-bottom: 10px;
+        height: 234px;
+    }
+
+    .curso_detalhes iframe{
+        width: 900px;
+        height: 500px;
+    }
+}

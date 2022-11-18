@@ -1,0 +1,169 @@
+.topo{
+    background-color: #000;
+    border: 0px;
+    border-radius: 0px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.topo p{
+    color: #fff;
+    margin-top: 15px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.topo img{
+    height: 90px;
+}
+
+.topo ul{
+    margin-top: 16px;
+    display: flex;
+    list-style: none;
+}
+
+.topo a{
+    display: inline-block;
+    padding-top: 15px;
+    padding-right: 25px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.topo a:hover{
+    text-decoration: underline;
+}
+
+.login{
+    display:flex; 
+    min-height:100%; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.login h2{
+    margin-top: 20px;
+}
+
+.login p{
+    margin-top: 20px;
+}
+
+.login img{
+    width: 100%;
+}
+
+.login h3{
+    margin-bottom: 20px;
+}
+
+.login form{
+    margin-bottom: 30px;
+}
+
+.login input{
+    margin-top: 10px;
+}
+
+.sem_perguntas{
+    text-align: center;
+}
+
+.sem_perguntas img{
+    width: 50%;
+    margin-top: 100px
+}
+
+.estudantes{
+    margin-top: 130px;
+}
+
+.estudantes p{
+    margin-bottom: 30px;
+}
+
+.cursos{
+    padding-top: 130px;
+}
+
+.cursos form > input,
+.cursos form > select,
+.cursos form > fieldset,
+.cursos form > textarea{
+    margin-bottom: 15px;
+}
+
+.cursos p{
+    margin-bottom: 30px;
+}
+
+.cursos hr{
+    margin: 50px 0px;
+}
+
+.imagem_video_curso img,
+.imagem_video_curso video{
+    width: 100%;
+    height: 350px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.centralizar-botoes{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.conta{
+    padding-top: 120px;
+}
+
+.conta img{
+    width: 100%;
+}
+
+.conta hr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.conta input{
+    margin-bottom: 10px;
+}
+
+.titulo_perguntas{
+    margin-top: 130px;
+}
+
+.perguntas{
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.perguntas .btn{
+    margin-top: 15px;
+}
+
+@media screen and (max-width: 900px){
+    .topo{
+        flex-direction: column;
+        align-items: center; 
+    }
+
+    .topo p{
+        font-size: 26px;
+    }
+
+    .sem_perguntas img{
+        width: 90%;
+        margin-top: 130px
+    }
+
+    .estudantes,
+    .cursos{
+        padding-top: 150px;
+    }
+}

@@ -1,0 +1,278 @@
+[14-Aug-2022 12:29:58 UTC] PHP Notice:  Undefined variable: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/edit_countries.php on line 40
+[14-Aug-2022 12:29:58 UTC] PHP Notice:  Undefined variable: titulo in /home/mhbyhi5zr89f/public_html/admin/edit_countries.php on line 41
+[14-Aug-2022 12:29:58 UTC] PHP Notice:  Undefined variable: pais in /home/mhbyhi5zr89f/public_html/admin/edit_countries.php on line 44
+[14-Aug-2022 12:29:58 UTC] PHP Notice:  Undefined variable: mensagem in /home/mhbyhi5zr89f/public_html/admin/edit_countries.php on line 65
+[14-Aug-2022 12:29:58 UTC] PHP Notice:  Undefined variable: imagem in /home/mhbyhi5zr89f/public_html/admin/edit_countries.php on line 71
+[14-Aug-2022 15:26:18 UTC] PHP Parse error:  syntax error, unexpected '$imagem' (T_VARIABLE), expecting ';' or ',' in /home/mhbyhi5zr89f/public_html/admin/edit_countries.php on line 77
+[14-Aug-2022 15:26:18 UTC] PHP Parse error:  syntax error, unexpected '$imagem' (T_VARIABLE), expecting ';' or ',' in /home/mhbyhi5zr89f/public_html/admin/edit_countries.php on line 77
+[14-Aug-2022 15:26:21 UTC] PHP Parse error:  syntax error, unexpected '$imagem' (T_VARIABLE), expecting ';' or ',' in /home/mhbyhi5zr89f/public_html/admin/edit_countries.php on line 77
+[14-Aug-2022 15:27:36 UTC] PHP Parse error:  syntax error, unexpected '$imagem' (T_VARIABLE), expecting ';' or ',' in /home/mhbyhi5zr89f/public_html/admin/edit_countries.php on line 77
+[25-Sep-2022 16:48:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 17
+[25-Sep-2022 16:48:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 17
+[25-Sep-2022 16:48:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 17
+[25-Sep-2022 16:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 17
+[25-Sep-2022 16:49:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 17
+[25-Sep-2022 16:49:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 17
+[25-Sep-2022 16:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 17
+[25-Sep-2022 16:49:35 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 45
+[25-Sep-2022 16:49:35 UTC] PHP Notice:  Undefined variable: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 49
+[25-Sep-2022 16:49:35 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 50
+[25-Sep-2022 16:49:35 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:49:35 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:49:35 UTC] PHP Notice:  Undefined variable: idioma_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:49:35 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 56
+[25-Sep-2022 16:49:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 58
+[25-Sep-2022 16:50:42 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 45
+[25-Sep-2022 16:50:42 UTC] PHP Notice:  Undefined variable: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 49
+[25-Sep-2022 16:50:42 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 50
+[25-Sep-2022 16:50:42 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:50:42 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:50:42 UTC] PHP Notice:  Undefined variable: idioma_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:50:42 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 56
+[25-Sep-2022 16:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 58
+[25-Sep-2022 16:50:43 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 45
+[25-Sep-2022 16:50:43 UTC] PHP Notice:  Undefined variable: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 49
+[25-Sep-2022 16:50:43 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 50
+[25-Sep-2022 16:50:43 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:50:43 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:50:43 UTC] PHP Notice:  Undefined variable: idioma_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:50:43 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 56
+[25-Sep-2022 16:50:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 58
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 45
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 49
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 50
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: idioma_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 56
+[25-Sep-2022 16:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 58
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 45
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 49
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 50
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: idioma_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:51:04 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 56
+[25-Sep-2022 16:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 58
+[25-Sep-2022 16:51:05 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 45
+[25-Sep-2022 16:51:05 UTC] PHP Notice:  Undefined variable: nome_sem_extensao in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 49
+[25-Sep-2022 16:51:05 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 50
+[25-Sep-2022 16:51:05 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:51:05 UTC] PHP Notice:  Undefined variable: nome_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:51:05 UTC] PHP Notice:  Undefined variable: idioma_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 53
+[25-Sep-2022 16:51:05 UTC] PHP Notice:  Undefined variable: codigo_curso in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 56
+[25-Sep-2022 16:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 58
+[02-Oct-2022 15:37:12 UTC] PHP Notice:  Undefined index: comentario in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 26
+[02-Oct-2022 15:38:16 UTC] PHP Notice:  Undefined index: comentario in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 26
+[02-Oct-2022 15:38:36 UTC] PHP Notice:  Undefined index: comentario in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 26
+[02-Oct-2022 15:38:38 UTC] PHP Notice:  Undefined index: comentario in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 26
+[02-Oct-2022 15:39:44 UTC] PHP Notice:  Undefined index: comentario in /home/mhbyhi5zr89f/public_html/admin/edit_lessons.php on line 26
+[02-Oct-2022 18:58:12 UTC] PHP Notice:  Undefined variable: conn in /home/mhbyhi5zr89f/public_html/admin/comments.php on line 28
+[02-Oct-2022 18:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mhbyhi5zr89f/public_html/admin/comments.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/comments.php on line 28
+[02-Oct-2022 19:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/comments.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/comments.php on line 34
+[02-Oct-2022 19:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/comments.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/comments.php on line 34
+[02-Oct-2022 19:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/comments.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/comments.php on line 34
+[02-Oct-2022 19:01:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/comments.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/comments.php on line 34
+[02-Oct-2022 19:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/comments.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/comments.php on line 43
+[02-Oct-2022 19:08:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/mhbyhi5zr89f/public_html/admin/comments.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/mhbyhi5zr89f/public_html/admin/comments.php on line 43
+[12-Oct-2022 20:20:24 UTC] PHP Notice:  Undefined index: student_email in /home/mhbyhi5zr89f/public_html/admin/chat.php on line 14
+[12-Oct-2022 20:20:24 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/chat.php on line 275
+[12-Oct-2022 20:20:24 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/chat.php on line 315
+[12-Oct-2022 20:20:24 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/chat.php on line 356
+[12-Oct-2022 20:20:24 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/chat.php on line 377
+[12-Oct-2022 20:21:34 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/chat.php on line 242
+[12-Oct-2022 20:21:34 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/chat.php on line 282
+[12-Oct-2022 20:21:34 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/chat.php on line 323
+[12-Oct-2022 20:21:34 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/chat.php on line 344
+[12-Oct-2022 20:22:29 UTC] PHP Notice:  Undefined variable: nome in /home/mhbyhi5zr89f/public_html/admin/chat.php on line 150
+[12-Oct-2022 21:41:43 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 64
+[12-Oct-2022 21:45:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 81
+[12-Oct-2022 21:45:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 81
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:45:31 UTC] PHP Notice:  Array to string conversion in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 71
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:47:32 UTC] PHP Notice:  Undefined index: pergunta in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 72
+[12-Oct-2022 21:57:16 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 16
+[12-Oct-2022 21:57:19 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mhbyhi5zr89f/public_html/admin/admin.php on line 16
